@@ -7,6 +7,8 @@
 ![Llama-3 Physical_appearance.jpg](figure%2FLlama-3%20Physical_appearance.jpg)
 
 ### 2. Overview of Results and Supplementary Content
+> <font color="red">Red font denotes supplementary content in the rebuttal.</font>
+
 ![table1.png](figure%2Ftable1.png)
 ![table2.png](figure%2Ftable2.png)
 ![table3.png](figure%2Ftable3.png)
